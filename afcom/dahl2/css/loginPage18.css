@@ -1,0 +1,44 @@
+/* Code tidied up by ScrapBook */
+body { margin: 0px; }
+.fullPageBackground { position: relative; background-position: center center; background-repeat: no-repeat; background-size: cover; height: 100vh; }
+#loginPage18.login-tab { margin: auto; top: 25vh; width: 385px; font-size: 12pt; position: relative; height: auto; }
+#loginPage18.login-tab.extended { height: 100%; max-height: 60vh; }
+#loginPage18 .login-tab__main-div { padding-top: 65px; margin: auto; width: 240px; text-align: center; padding-bottom: 65px; height: calc(100% - 130px); }
+#loginPage18 .login-tab__logo { max-width: 240px; max-height: 90px; }
+#loginPage18 .login-tab__logo--default-logo { background-size: contain; background-repeat: no-repeat; margin: auto; }
+#loginPage18 .login-form-view__login-input { display: block; padding: 0px 6px; margin: 12px 0px 0px; width: 226px; height: 30px; border: 1px solid rgb(204, 204, 204); }
+#loginPage18 .login-information-view { display: none; }
+#loginPage18 .login-information-view__welcome-text { font-weight: bold; }
+#loginPage18 .login-information-view__information_text { min-height: 125px; }
+#loginPage18 .login-information-view { margin-top: 40px; }
+#loginPage18 .login-form-view__password-input { display: block; padding: 0px 6px; margin: 0px; width: 226px; height: 30px; border: 1px solid rgb(204, 204, 204); }
+#loginPage18 .login-information-view__back-button { margin-top: 30px; }
+#loginPage18 .login-form-view__login-button { width: 100%; margin: 30px 0px 0px; padding: 0px; height: 32px; }
+#loginPage18 .login-form-view__login-message { margin-top: 12px; font-size: 8pt; }
+#loginPage18 .login-form-view__login-message--warning { color: red; }
+#loginPage18 .login-form-view__login-message--info { color: gray; }
+#loginPage18 .login-form-view__login-button .newButtonTextPanel { line-height: normal; }
+#loginPage18 .login-form-view__login-button .newButtonTextInner { font-size: 11pt; }
+#loginPage18 .login-form-view__register-link { margin: 14px auto 0px; display: block; font-size: 10pt; }
+#loginPage18 .login-tab__information-icon { position: absolute; cursor: pointer; left: 0px; top: 0px; }
+#loginPage18 .login-form-view__register-link:hover { cursor: pointer; }
+#loginPage18 .registration-view { display: none; height: 100%; }
+#loginPage18 .registration-view--scrollable-panel { overflow: auto; height: calc(100% - 155px); }
+#loginPage18 .registration-view__elem--bold { font-weight: bold; }
+#loginPage18 .registration-view__addresses { margin-top: 30px; text-align: center; }
+#loginPage18 .registration-view__back-button { margin-top: 10px; }
+#loginPage18 .registration-view__addres-section { margin-top: 30px; }
+#loginPage18 .registration-view__first-elem { margin-top: 16px; }
+#loginPage18 .registration-view__frame-text { margin-top: 16px; }
+#loginPage18 .registration-view__address-field { margin: 5px; }
+#loginPage18 .remind-form-view { display: none; }
+.remind-form-view .remindPassText { margin-top: 12px; margin-bottom: 8px; }
+.remind-form-view .inputText { width: 226px; height: 30px; margin: 6px 0px 0px; padding: 0px 6px; border: 1px solid rgb(204, 204, 204); }
+.remind-form-view .inputSelect { width: 240px; height: 30px; padding: 0px 0px 0px 2px; margin: 6px 0px 0px; border: 1px solid rgb(204, 204, 204); }
+.remind-form-view__submit-button { display: block; margin: 15px auto 0px; }
+.remind-form-view__back-button { display: block; margin: 15px auto 0px; }
+.login-form-view__password-panel { position: relative; margin: 15px 0px 0px; }
+.login-form-view__password-forgot-link { cursor: pointer; position: absolute; top: 34px; right: 0px; }
+.login-form-view__me-button { top: 0px; right: 0px; width: 60px; text-align: center; font-family: Verdana; font-size: 12px; color: white; padding: 5px; background: rgb(124, 169, 3) none repeat scroll 0% 0%; position: absolute; cursor: pointer; }
+.old_page_button { position: absolute; right: 0px; bottom: 0px; z-index: 1; background-color: white; padding: 5px; border-radius: 8px 0px 0px; cursor: pointer; }
+.login-page-view { margin-top: 30px; }

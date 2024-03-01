@@ -1,0 +1,16 @@
+/* Code tidied up by ScrapBook */
+.meBubble { color: rgb(68, 68, 68); border-image: none; border-style: solid; border-width: 3px; box-shadow: 4px 4px 3px rgb(160, 160, 160); line-height: 17px; position: absolute; width: 300px; padding: 10px; top: -40px; right: 10px; border-radius: 5px; background: transparent linear-gradient(rgb(255, 255, 255), rgb(237, 237, 237)) repeat scroll 0% 0%; display: none; }
+.meBubbleHeader { height: 33px; }
+.meBubbleLogo {  }
+.meBubblePointer { top: 19px; position: absolute; width: 0px; height: 0px; }
+.meBubblePointerInner { border-style: solid; border-width: 12px; position: absolute; top: -8px; width: 0px; height: 0px; line-height: 0px; }
+.meBubblePointerRight { right: -2px; }
+.meBubblePointerRight .meBubblePointerInner { border-right-width: 0px; }
+.greyBubble { border-color: rgb(187, 187, 187); }
+.greyBubble * .meBubbleHr { color: rgb(187, 187, 187); }
+.greyBubble * .meBubblePointerInner { border-color: transparent rgb(187, 187, 187); -moz-border-top-colors: transparent; -moz-border-bottom-colors: transparent; }
+.greyBubble * .meBubbleLogo {  }
+.greenBubble { border-color: rgb(146, 185, 58) rgb(146, 185, 58) rgb(145, 185, 60); }
+.greenBubble * .meBubbleHr { color: rgb(146, 185, 58); }
+.greenBubble * .meBubblePointerInner { border-color: transparent rgb(146, 185, 58); -moz-border-top-colors: transparent; -moz-border-bottom-colors: transparent; }
+.greenBubble * .meBubbleLogo { background: transparent url("meSmallLogo.html") no-repeat scroll 0% 0%; height: 33px; width: 56px; float: left; margin-right: 10px; }

@@ -1,0 +1,124 @@
+/* Code tidied up by ScrapBook */
+.margin { color: rgb(255, 255, 255); }
+.button { color: rgb(204, 0, 0); }
+.finalbutton { color: rgb(153, 0, 0); }
+.loginPage { background-color: rgb(255, 204, 0); border: 1px solid rgb(98, 95, 96); }
+.loginPageBackground { background-color: rgb(255, 204, 0); }
+.remindPasswordCenter { background-color: rgb(237, 238, 237); }
+.welcomeText { color: rgb(0, 0, 0); }
+.loginPageTopBar { background-color: rgb(204, 0, 0); color: rgb(255, 255, 255); }
+.contentHeader.loginPageTopBar { border-bottom: 1px solid rgb(98, 95, 96); }
+.loginFormBoxColor { background-color: rgb(237, 238, 237); }
+.loginFormCenter td { color: rgb(93, 97, 98); }
+.loginFormFonts { color: rgb(93, 97, 98); }
+a.marginLP:active { color: rgb(93, 97, 98); }
+a.marginLP:link { color: rgb(93, 97, 98); }
+a.marginLP:visited { color: rgb(93, 97, 98); }
+a.marginLP:hover { color: rgb(93, 97, 98); }
+a.memarginLP:active { color: rgb(93, 97, 98); }
+a.memarginLP:link { color: rgb(93, 97, 98); }
+a.memarginLP:visited { color: rgb(93, 97, 98); }
+a.memarginLP:hover { color: rgb(93, 97, 98); }
+.meloginFormCenter td { color: rgb(93, 97, 98); }
+.register--icon { fill: rgb(93, 97, 98); }
+.remindPasswordCell { border-top: 1px solid rgb(93, 97, 98); border-bottom: 1px solid rgb(93, 97, 98); }
+.loginPageArrowsLeft { background-image: url("arrowsLeft_invisible.html"); }
+.loginPageArrowsRight { background-image: url("arrowsRight_invisible.html"); }
+* html .loginPageArrowsLeft { background-image: none; }
+* html .loginPageArrowsRight { background-image: none; }
+A { color: rgb(0, 0, 0); }
+A:active { color: rgb(0, 0, 0); text-decoration: none; }
+A:visited { color: rgb(0, 0, 0); text-decoration: none; }
+A:link { color: rgb(0, 0, 0); text-decoration: none; }
+A:hover { color: rgb(204, 0, 0); text-decoration: underline; }
+A.margin:active { color: rgb(255, 255, 255); text-decoration: none; }
+A.margin:link { color: rgb(255, 255, 255); text-decoration: none; }
+A.margin:visited { color: rgb(255, 255, 255); text-decoration: none; }
+A.margin:hover { color: rgb(255, 255, 255); text-decoration: underline; }
+A.button:active { color: rgb(204, 0, 0); text-decoration: none; }
+A.button:link { color: rgb(204, 0, 0); text-decoration: none; }
+A.button:visited { color: rgb(204, 0, 0); text-decoration: none; }
+A.button:hover { color: rgb(204, 0, 0); text-decoration: underline; }
+A.finalbutton:active { color: rgb(153, 0, 0); text-decoration: none; }
+A.finalbutton:link { color: rgb(153, 0, 0); text-decoration: none; }
+A.finalbutton:visited { color: rgb(153, 0, 0); text-decoration: none; }
+A.finalbutton:hover { color: rgb(153, 0, 0); text-decoration: underline; }
+.linecolorMarginTop { border-bottom: 1px solid rgb(204, 204, 204); }
+.linecolor { background-color: rgb(204, 204, 204); }
+.lightcolor { background-color: rgb(255, 204, 0); }
+.lightcolor-phoenix { background-color: rgb(159, 166, 210); }
+.inactive-tab-color { background-color: rgb(114, 114, 114); }
+.darkcolor { background-color: rgb(153, 153, 153); }
+.section-color { background-color: rgb(204, 0, 0); color: rgb(255, 255, 255); fill: rgb(255, 255, 255); font-weight: normal; }
+.section-color .miniButtonPanel a { color: rgb(255, 255, 255); }
+.mobileForm .collection-header { font-weight: normal; }
+.section-color-text-hoverable:hover { color: rgb(255, 255, 255); }
+.tab--active #plus_icon { fill: rgb(255, 255, 255); }
+.margincolor { background-color: rgb(204, 0, 0); }
+.groupHeader.margincolor *, .calendarGroupHeader.margincolor * { color: rgb(255, 255, 255); }
+.result-data-row-header.level0 { background-color: rgb(255, 204, 0); }
+.result-data-row-header.level1 { background-color: rgb(250, 250, 250); }
+.navigationBarColor { background-color: rgb(204, 0, 0); }
+a.menu-top--itemText, a.menu-top--subItemText:hover, .ui-dialog-title { color: rgb(255, 255, 255); }
+.menu-top::before { background-color: rgb(204, 0, 0); border-color: rgb(204, 0, 0); box-shadow: 9999px 0px 0px rgb(204, 0, 0), 4000px 4px 4px -3px gray; }
+.greytext { color: rgb(159, 166, 210); }
+A.scroll:active { color: rgb(0, 51, 153); text-decoration: none; }
+A.scroll:visited { color: rgb(0, 51, 153); text-decoration: none; }
+A.scroll:link { color: rgb(0, 51, 153); text-decoration: none; }
+A.scroll:hover { color: rgb(204, 0, 0); text-decoration: underline; }
+TD.button { background-color: rgb(204, 0, 0); }
+TD.finalbutton { background-color: rgb(153, 0, 0); }
+TD.rankcolora { background-color: rgb(255, 255, 255); }
+TD.rankcolorb { background-color: rgb(246, 246, 246); }
+TD.rankcolorc { background-color: rgb(240, 240, 240); }
+TR.rankcolora { background-color: rgb(255, 255, 255); }
+TR.rankcolorb { background-color: rgb(246, 246, 246); }
+TR.rankcolorc { background-color: rgb(240, 240, 240); }
+.buttonNormalColor, .button--colorType0 { background-color: rgb(204, 0, 0); }
+.buttonFinalColor, .button--colorType1 { background-color: rgb(153, 0, 0); }
+.button--colorType2 { background-color: rgb(204, 0, 0); }
+.miniButtonColor { background-color: rgb(144, 0, 0); }
+.miniButtonColorLT12 { background-color: rgb(144, 0, 0); }
+.button--miniColorType0 { color: rgb(204, 0, 0); }
+.button--miniColorType1 { color: rgb(153, 0, 0); }
+.button--miniColorType2 { color: rgb(204, 0, 0); }
+img.minibutton { background-color: rgb(204, 0, 0); }
+.guiClearBoth { clear: both; }
+.ui-datepicker .ui-datepicker-header { color: rgb(0, 0, 0); }
+.ui-state-hover a, .ui-state-hover a:hover { color: rgb(0, 0, 0) ! important; text-decoration: none; }
+.ui-state-active a, .ui-state-active a:link, .ui-state-active a:visited { color: rgb(0, 0, 0) ! important; text-decoration: none; }
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight { border-width: 1px; border-style: solid; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; border-image: none; border-color: rgb(255, 204, 0) ! important; color: rgb(0, 0, 0) ! important; }
+.ui-datepicker a:hover { color: rgb(0, 0, 0) ! important; }
+.leftBusinessMenuBackground {  }
+.menuCategoryLink {  }
+.menuCategoryLinkArrow {  }
+.activeMenuCategory .menuCategoryLink {  }
+.activeMenuCategory .menuCategoryLinkArrow {  }
+.highlightMenuCategory .menuCategoryLink {  }
+.highlightMenuCategory .menuCategoryLinkArrow {  }
+.lightcolorborder { border-color: rgb(255, 204, 0) ! important; }
+.buttonPrimaryColor { background-color: rgb(204, 0, 0); }
+.buttonPrimaryColorLT12 { background-color: rgb(204, 0, 0); }
+table.openOverviewResults tr.selectable.hover { background-color: rgb(213, 216, 242) ! important; }
+table.openOverviewResults tr.selected { background-color: rgb(232, 234, 250) ! important; }
+table.openOverviewResults tr.selected td.withTotals { background-color: rgb(208, 210, 225) ! important; }
+table.openOverviewResults tr.selectable.hover td.withTotals { background-color: rgb(191, 194, 217) ! important; }
+.sublevel-header-1 { background-color: rgb(250, 250, 250); }
+.sublevel-header-2 { background-color: rgb(250, 250, 250); }
+.sublevel-header-3 { background-color: rgb(250, 250, 250); }
+.zebraStripe.even { background-color: rgb(255, 255, 255); }
+.zebraStripe.odd { background-color: rgb(246, 246, 246); }
+.zebraStripe.even .withTotals { background-color: rgb(242, 242, 242); }
+.zebraStripe.odd .withTotals { background-color: rgb(233, 233, 233); }
+.bodyBackgroundColor { background: white url("bg.html") repeat-x scroll 0px 0px; }
+.menuMain.full-width-bar::before { background-color: rgb(255, 255, 255); border-color: rgb(255, 255, 255); box-shadow: 9999px 0px 0px rgb(255, 255, 255); }
+.menuMain { background-color: rgb(255, 255, 255); }
+.buttonPrimaryColorBorder { border-color: rgb(204, 0, 0); }
+.buttonPrimaryColorOpaque { background-color: rgba(204, 0, 0, 0.2); }
+.buttonPrimaryFontColor { color: rgb(255, 255, 255); }
+ul#nav li ul li:hover { background: rgb(204, 0, 0) none repeat scroll 0% 0%; }
+.ui-widget-header { background-color: rgb(204, 0, 0); }
+.ui-dialog-titlebar.ui-widget-header { background-color: rgb(204, 0, 0); }
+#ui-datepicker-div .ui-datepicker-header.ui-widget-header { background-color: rgb(204, 0, 0); }
+.login-tab__information-icon circle { stroke: rgb(153, 0, 0); }
+.login-tab__information-icon text { fill: rgb(153, 0, 0); }

@@ -1,0 +1,35 @@
+/* Code tidied up by ScrapBook */
+.lightGreen { background-color: rgb(208, 237, 6); }
+.meDarkGreen { background-color: rgb(124, 169, 3); }
+.meLightGray { background-color: rgb(238, 238, 238); }
+.tabsTable { border-collapse: collapse; padding: 0px; }
+.tabsTable td { padding: 0px; border: 0px none; }
+.shadowVerticalCommon { width: 2px; height: 24px; background: transparent url("meLogin_shadowVertical.html") no-repeat scroll 0px 0px; }
+.shadowTable { height: 100%; width: 8px; }
+.meInputText { background-color: rgb(255, 255, 255); height: 1.2em; font-size: 12px; width: 163px; padding: 3px; border: 1px solid rgb(204, 204, 204); }
+.ax4tabcommong { width: 80px; height: 23px; text-align: center; cursor: pointer; -moz-user-select: none; }
+.ax4tab { color: rgb(68, 68, 68); }
+.ax4metab { color: white; }
+.meTabBox { height: 23px; width: 80px; padding: 1px 1px 0px; }
+.greenFrame { margin: 0px 3px 3px; min-height: 329px; }
+.divUnderLoginTabs { margin: 3px 3px 0px; height: 5px; }
+.loginFormCommon { height: 100%; }
+.tabtext { padding-top: 4px; font-size: 11px; font-weight: bold; font-family: Arial; }
+.meButtonContent { background-image: url("button-content.html"); }
+.meLoginRegister .register--icon { fill: rgb(124, 169, 3); }
+.meButton .newButtonPanel { background-color: rgb(124, 169, 3); }
+.mewButtonImageContentHoverCache { background-image: url("button-content-hover.html"); }
+.meButtonImageLeftHoverCache { background-image: url("button-left-hover.html"); }
+.meButtonImageRightHoverCache { background-image: url("button-right-hover.html"); }
+.meButtonImageContentPressCache { background-image: url("button-content-pressed.html"); }
+.meButtonImageLeftPressCache { background-image: url("button-left-pressed.html"); }
+.meButtonImageRightPressCache { background-image: url("button-right-pressed.html"); }
+.meButtonImageContentCache { background-image: url("button-content.html"); }
+.meButtonImageLeftCache { background-image: url("button-left.html"); }
+.meButtonImageRightCache { background-image: url("button-right.html"); }
+.mebuttonHover .meButtonImageContentHoverCache { background-image: url("button-content-hover.html"); }
+.mebuttonHover .meButtonImageLeftHoverCache { background-image: url("button-left-hover.html"); }
+.mebuttonHover .meButtonImageRightHoverCache { background-image: url("button-right-hover.html"); }
+.mebuttonPressed .meButtonImageContentPressCache { background-image: url("button-content-pressed.html"); color: white; }
+.mebuttonPressed .meButtonImageLeftPressCache { background-image: url("button-left-pressed.html"); }
+.mebuttonPressed .meButtonImageRightPressCache { background-image: url("button-right-pressed.html"); }

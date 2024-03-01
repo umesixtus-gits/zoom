@@ -1,0 +1,19 @@
+/* Code tidied up by ScrapBook */
+ul.menu, ul.menu ul { list-style-type: none; float: left; width: 100%; margin: 0px; padding: 0px; background-color: white; }
+ul.menu li { margin-top: 0px; float: left; width: 100%; }
+.menuCategory, .menuCategoryDiv { float: left; width: 100%; text-align: left; }
+.menuCategoryLink { cursor: pointer; display: block; text-decoration: none; font-size: 12px; font-weight: bold; margin-top: 1px; padding: 0.6em 40px 0.6em 5px; white-space: nowrap; }
+.menuCategoryIcon { padding-right: 5px; vertical-align: middle; border: medium none; width: 20px; height: 16px; }
+.menuCategoryLinkArrow { background-image: url("white_arrow.html"); background-repeat: no-repeat; background-position: 95% center; }
+.highlightMenuCategory .menuCategoryLink { text-decoration: none; padding: 0.6em 40px 0.6em 5px; }
+.highlightMenuCategory .menuCategoryLinkArrow { background-image: url("black_arrow_down.html"); background-repeat: no-repeat; background-position: 95% center; }
+.menuTool, .menuToolDiv { float: left; width: 100%; text-align: left; }
+.menuToolLink { display: block; text-decoration: none; color: rgb(0, 0, 0) ! important; background: rgb(255, 255, 255) none repeat scroll 0% 0%; margin-top: 0px; font-size: 9px; padding: 0.4em 25px 0.4em 35px; border-top: 0.1em solid white ! important; border-bottom: 0.1em solid white ! important; }
+.highlightMenuTool .menuToolLink { background-color: rgb(235, 233, 233); text-decoration: none ! important; padding-top: 0.4em; padding-bottom: 0.4em; padding-left: 35px ! important; padding-right: 25px ! important; border-left: medium none ! important; }
+ul.acitem { width: 100%; }
+.activeMenuCategory { border-bottom: 1px solid white; }
+.activeMenuCategory .menuCategoryLink { cursor: pointer; }
+.activeMenuCategory .menuCategoryLinkArrow { background-image: url("black_arrow.html"); background-repeat: no-repeat; background-position: 95% center; }
+.activeMenuTool { color: rgb(0, 0, 0) ! important; font-size: 10px; background-color: rgb(235, 233, 233) ! important; text-decoration: none; border-left: 10px solid rgb(153, 153, 153) ! important; padding-left: 25px ! important; padding-top: 0.5em; padding-bottom: 0.5em; border-top: medium none ! important; border-bottom: medium none ! important; }
+.highlightMenuTool .activeMenuTool { text-decoration: none; background-color: rgb(235, 233, 233) ! important; border-left: 10px solid rgb(153, 153, 153) ! important; padding-left: 25px ! important; padding-top: 0.5em; padding-bottom: 0.5em; border-top: medium none ! important; border-bottom: medium none ! important; }
+.initiallyFolded { display: none; }

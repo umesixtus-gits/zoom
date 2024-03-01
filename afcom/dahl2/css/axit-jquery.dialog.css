@@ -1,0 +1,14 @@
+/* Code tidied up by ScrapBook */
+.ui-dialog .ui-dialog-titlebar-close span { display: block; margin-top: -7.5px; }
+.ui-dialog .ui-dialog-title { float: left; margin: 0px 0px 0.2em 0.2em; }
+.ui-widget-overlay { background-color: rgb(0, 0, 0); opacity: 0.3; }
+.ui-dialog .ui-corner-all, .ui-dialog.ui-corner-all { border-radius: 0px; }
+.ui-state-default.ui-button-icon-only.ui-dialog-titlebar-close { border: medium none; background: transparent none repeat scroll 0% 0%; font-weight: normal; color: rgb(85, 85, 85); outline: medium none; }
+.ui-widget-header .ui-icon.ui-icon-closethick { background: transparent url("close.html") repeat scroll 0% 0% / contain ; }
+#exit_icon { background: transparent url("close.html") repeat scroll 0% 0% / contain ; }
+.changeIdentityDialog { border-width: 0px; }
+.progressBox { background-color: rgb(255, 255, 255); border: 2px solid rgb(34, 48, 140); padding: 5px; overflow: hidden; }
+.progressBox .ui-dialog-titlebar { display: none; }
+.ui-widget input, .ui-widget textarea, .ui-widget select { font-family: Helvetica,Lucida,Arial,sans-serif; font-size: 12px; }
+.ui-dialog { overflow: inherit; padding: 0px; }
+.ui-dialog.ui-dialog--axitInline { position: static; }

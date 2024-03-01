@@ -1,0 +1,6 @@
+/* Code tidied up by ScrapBook */
+.meLogin_Panel_brown_stripe { background: transparent url("meLogin_diagonal.html") repeat scroll 0% 0%; height: 10px; width: 100%; overflow: hidden; }
+.meLoginPanel_border { width: 100%; }
+.meLoginPanel_table { vertical-align: middle; background: transparent url("meLogin_barLine.html") repeat-x scroll 0px 0px; height: 56px; margin: 0px; width: 100%; text-align: left; }
+.meLoginPanel_table td { padding-left: 59px; }
+.meLoginPanel_inner { font-family: Arial,Geneva,helvetica,sans-serif; font-size: 15px; font-weight: bold; color: rgb(255, 255, 255); }

@@ -1,0 +1,17 @@
+/* Code tidied up by ScrapBook */
+.ui-autocomplete { padding: 0px; border: 1px solid black; max-height: 200px; overflow-y: auto; overflow-x: hidden; }
+.ui-menu-item-odd { background-color: rgb(238, 238, 238); }
+li > .ui-corner-all, .ui-corner-top, .ui-corner-left, .ui-corner-tl { border-top-left-radius: 0px; }
+li > .ui-corner-all, .ui-corner-top, .ui-corner-right, .ui-corner-tr { border-top-right-radius: 0px; }
+li > .ui-corner-all, .ui-corner-bottom, .ui-corner-left, .ui-corner-bl { border-bottom-left-radius: 0px; }
+li > .ui-corner-all, .ui-corner-bottom, .ui-corner-right, .ui-corner-br { border-bottom-right-radius: 0px; }
+.ui-autocomplete-input { background: transparent url("IconSearch.html") no-repeat scroll right 3px center / 16px 16px; padding-right: 22px; }
+.ui-autocomplete-loading { background: rgb(245, 245, 245) url("loading_icon.html") no-repeat scroll right 3px center ! important; }
+.ui-autocomplete-over { background-color: rgb(10, 36, 106); color: white; }
+.ui-autocomplete.ui-menu .ui-menu-item a:hover { color: black; }
+.ui-autocomplete .ui-state-focus a { background-color: rgb(10, 36, 106) ! important; color: white ! important; }
+.ui-autocomplete.ui-menu .ui-menu-item.ui-state-focus { margin: 0px; border-width: 0px; }
+.ui-autocomplete.ui-menu .ui-menu-item { padding: 0px; }
+.ui-autocomplete.ui-menu .ui-menu-item a { display: block; padding: 3px 1em 3px 0.4em; }
+.ui-autocomplete.ui-menu .ui-menu-item a { font: menu; }
+select.fodAutocompleter.nothingFound { color: rgb(109, 109, 109); }
